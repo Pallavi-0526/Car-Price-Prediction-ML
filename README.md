@@ -130,6 +130,7 @@ Median =  4.0L ✅ Represents typical car correctly
 - **NumPy** — Numerical operations
 - **Scikit-Learn** — ML models, preprocessing, evaluation
 - **Matplotlib / Seaborn** — Visualizations
+- **HTML / CSS / JavaScript** — Interactive price predictor UI
 
 ---
 
